@@ -13,18 +13,26 @@ const Projects = () => {
       <div className="h-full w-full flex flex-col md:flex-row gap-10 px-10">
         <ProjectCard
           src="/NextWebsite.png"
-          title="Modern Next.js Portfolio"
-          description="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+          title="Todo list"
+          description="Maximize efficiency and productivity with our intuitive Todo List project, simplifying task organization and prioritization for seamless workflow management.
+          "
         />
         <ProjectCard
           src="/CardImage.png"
           title="Interactive Website Cards"
-          description="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+          description="ProjectCard component displays an interactive card on a website with a specified image, title, and description."
         />
         <ProjectCard
           src="/SpaceWebsite.png"
-          title="Space Themed Website"
-          description="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+          title="Python games"
+          description="Discover a dynamic collection of creatively crafted Python games, promising endless fun and learning opportunities.
+
+
+
+
+
+
+          "
         />
       </div>
     </div>
